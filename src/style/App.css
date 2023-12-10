@@ -1,0 +1,10 @@
+/* this was added to handle the social media links turning blue color by default */
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#app {
+  height: 100%;
+}

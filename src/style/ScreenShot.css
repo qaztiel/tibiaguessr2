@@ -1,0 +1,9 @@
+img {
+    position: relative;
+    width: 100%
+}
+
+#screenshot-container {
+    position: relative;
+    width: 100%;
+}

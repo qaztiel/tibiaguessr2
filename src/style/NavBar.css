@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    height: 3rem;
+    background-color: #5cb239;
+  }
+
+  i:hover {
+    cursor: pointer;
+  }
+
+  #logo {
+    height: 3rem;
+  }
+  
+  
+  
